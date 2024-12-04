@@ -2,4 +2,4 @@
 pandas
 news-please
 requests
-nltk
+re
