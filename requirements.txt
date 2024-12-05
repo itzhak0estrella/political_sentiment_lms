@@ -2,3 +2,5 @@
 pandas
 news-please
 requests
+transformers
+evaluate
