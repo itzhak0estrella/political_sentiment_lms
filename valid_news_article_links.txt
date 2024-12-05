@@ -64,10 +64,12 @@ https://www.bbc.com/news/articles/cgl48r2wnx1o
 https://www.bbc.com/news/articles/c9379ryzr6po
 https://www.bbc.com/news/articles/cgqyzzg7pzvo
 https://www.bbc.com/news/articles/crlne0n191wo
+https://www.bbc.com/news/articles/c33epjve28ko
 https://www.bbc.com/news/articles/c05g5dv70m2o
 https://www.bbc.com/news/articles/cvgl3m47plko
 https://www.bbc.com/news/articles/cqlvwdk04gwo
 https://www.bbc.com/news/articles/c5yjylljxw4o
+https://www.bbc.com/news/articles/cq5287xy71do
 https://www.bbc.com/news/articles/cvg5erqe1dro
 https://www.bbc.com/news/live/cnvjr42yq39t
 https://www.bbc.com/news/articles/ckgz66dpxelo
@@ -75,12 +77,15 @@ https://www.bbc.com/news/articles/c748l0zv4x8o
 https://www.bbc.com/news/articles/cj9j43890k7o
 https://www.bbc.com/news/articles/c4g2z113x6eo
 https://www.bbc.com/news/articles/czd5l0d3794o
+https://www.bbc.com/news/articles/c0mzl7zygpmo
+https://www.bbc.com/news/articles/c04ld19vlg6o
 https://www.bbc.com/news/articles/cwy1ekqpy00o
 https://www.bbc.com/news/articles/cly2qjel083o
 https://www.bbc.com/news/articles/cy4d422md24o
 https://www.bbc.com/news/articles/cp9zx2g1m4go
 https://www.bbc.com/news/articles/cm27z6dq9rgo
 https://www.bbc.com/news/articles/c6254qe9dqgo
+https://www.bbc.com/news/articles/cvg4n2rdjp6o
 https://www.bbc.com/news/articles/c20g1zvgj4do
 https://www.bbc.com/news/articles/c9810vmpz4zo
 https://www.bbc.com/news/articles/cjw03yjjqdwo
@@ -123,6 +128,7 @@ https://apnews.com/article/republican-national-convention-trump-confidence-unity
 https://apnews.com/article/melania-trump-rnc-milwaukee-donald-trump-e7183833dacfcc8fdd7213b59387ee3c
 https://apnews.com/article/teamsters-endorse-presidential-election-2d29668ace1ce239b7b6b209409bb6f5
 https://apnews.com/article/election-colorado-house-evans-ea159f328a7a3b8745724bfb90ac5124
+https://apnews.com/article/senate-leader-thune-cornyn-scott-mcconnell-trump-c3c1c451a420729136ae641a14d9d5d6
 https://apnews.com/article/south-carolina-republicans-senate-ddc28398dd9d34c905689b4328440e4c
 https://apnews.com/article/state-legislatures-control-republicans-democrats-michigan-9f6643e88531a2e6d92ca5c16f59c864
 https://apnews.com/article/tennessee-us-senate-election-blackburn-johnson-d5d339eabfd3822e870e80a9a347ac82
@@ -133,6 +139,7 @@ https://apnews.com/article/arizona-senate-ruben-gallego-kari-lake-ea364326c93f9a
 https://apnews.com/article/georgia-house-democrats-carolyn-hugley-d140f656a3b08d67a7e9e98d740ea0b6
 https://apnews.com/article/vermont-governor-election-phil-scott-esther-charlestin-1d02ab4fc5b12bcce0bc0826de61e391
 https://apnews.com/article/new-jersey-governor-election-josh-gottheimer-525930714b75c8fb0636dcfd6776cedc
+https://apnews.com/article/georgia-house-senate-legislature-democrats-republicans-296a4233e0b360ec60f1adc2f4174925
 https://apnews.com/article/new-york-congress-long-island-election-2024-d9971985ba0440117d41b1fd0d921e56
 https://apnews.com/video/north-carolina-donald-trump-donald-trump-es-government-programs-042f3b1d41a340d286169f20cdcd0654
 https://apnews.com/article/race-call-bynum-wins-oregon-u-s-house-district-88ef0ae72b0840b2a738a8d6c1b7836f
