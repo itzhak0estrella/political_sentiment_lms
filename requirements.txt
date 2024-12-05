@@ -2,4 +2,3 @@
 pandas
 news-please
 requests
-re
