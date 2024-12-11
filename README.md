@@ -13,4 +13,4 @@
 A link to the presentation for this project: https://docs.google.com/presentation/d/1IeHI58Z_AwG6YorfSa4CC8fkCO3MPJvb/edit?usp=sharing&ouid=103907116625322886779&rtpof=true&sd=true
 
 ## Report
-A link to the report for this project: <LINK>
+A link to the report for this project: https://docs.google.com/document/d/1QN8RP46c3gB025_IfEbmTBdOO33oGJp1HCWsl7wLO3Y/edit?usp=sharing 
