@@ -10,5 +10,7 @@
 - `model_comparison_openai`:
 
 ## Presentation
+A link to the presentation for this project: https://docs.google.com/presentation/d/1IeHI58Z_AwG6YorfSa4CC8fkCO3MPJvb/edit?usp=sharing&ouid=103907116625322886779&rtpof=true&sd=true
 
 ## Report
+A link to the report for this project: <LINK>
