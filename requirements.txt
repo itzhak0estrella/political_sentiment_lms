@@ -1,6 +1,11 @@
-# run `pip install -r requirements.txt` to install these packages - SUBJECT TO CHANGE
-pandas
+# run `pip install -r requirements.txt` to install these packages
+evaluate
+matplotlib
 news-please
+numpy
+openai
+pandas
+python-dotenv
+regex
 requests
 transformers
-evaluate
