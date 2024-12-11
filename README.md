@@ -11,7 +11,7 @@
 - `base_data.tsv`: Tab-separated dataset for moving data between `dataset_construction.ipynb` and the model comparison notebooks
 - `openai-gpt_results.tsv`: Tab-separated dataset for the results from GPT
 - `gpt2_results.tsv`: Tab-separated dataset for the results from GPT-2
-- `chat3.5_results.tsv`: Tab-separated dataset for the results from GPT-3.5
+- `gpt3.5_results.tsv`: Tab-separated dataset for the results from GPT-3.5
 - `gpt4o_results.tsv`: Tab-separated dataset for the results from GPT-4o
 
 ## Presentation
