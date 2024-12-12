@@ -1,6 +1,9 @@
 # Evaluating Political Bias in Popular Generative LLMs
 
 ## About
+As the popularity of publicly available generative models increases, people have begun to use them as a primary source of information. Generative models are increasingly providing people with primary information regarding their finances, careers, hobbies, politics, and more. However, the majority of people are unaware that these generative models can provide misinformation through hallucinated or purely incorrect responses, as demonstrated in Wang et al.'s recent survey on the factuality of large language model responses (2024). In light of this trend and the recent U.S. presidential election, our project aims to determine if certain, popular, open-source generative models demonstrate preference or bias toward certain U.S. political parties. By examining the difference in sentiment of text generated on identical prompts for each party, we can determine which models, if any, are biased towards certain parties, ideologies, etc. Research concerning political bias in generative models is important as people rely more on these models as primary sources of information; even if the models are biased, it is important for users to be aware of this bias as they interact with the models’ outputs. Our research aims to answer two central questions:
+- Compared to a baseline difference in sentiment between “conservative” and “liberal” prefixes, do any of the selected models display a difference in sentiment between “conservative” and “liberal” generated suffixes?
+- How has the average disparity in sentiment by major U.S. political party changed in the selected models over time?
 
 ## Files
 - `requirements.txt`: Text file that contains the necessary package requirements to run the code in the Jupyter notebooks
